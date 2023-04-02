@@ -1,2 +1,3 @@
-test data here for the the first lab
+.test data here for the the first lab
 and I am about to connect to local repo on github
+I have made some more changes to the text file as instructed
